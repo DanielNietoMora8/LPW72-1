@@ -1,2 +1,2 @@
-# LPW72-3
+# LPW72-1
 A simple repository for programming languages students
